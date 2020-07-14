@@ -1,0 +1,82 @@
+{
+  "main": {
+    "name":"Kevin Dave Gerona",
+    "description":"I am a Front-End Software Engineer and I use ReactJS for web applications and Flutter for mobile applications. This project is my personal portfolio",
+    "image":"profilepic.jpg",
+    "bio":"Hello there! I am Kevin Dave Gerona a Front-End Software Engineer. I have progressive work and experience in the industry as a professional, contributing my skills and academic knowledge. Managed and multitasking different kinds of projects handling both Frontend and Backend Development as well as can work on Cross Platform Development. Gained knowledge, standards and new technologies through work experiences.",
+    "contactmessage":"I am always willing to accept short or long term projects. Feel free to contact me.",
+    "email": "kevindavegerona@gmail.com",
+    "phone": "+639557262300",
+    "github":"https://github.com/kdgerona",
+    "project":"",
+    "address":{
+      "street":"Zamora St. Centro",
+      "city":"Mandaue City",
+      "state":"Philippines",
+      "zip": "6014"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/KevinDaveGerona",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/KevinDaveGerona",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/kdgerona",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I also do front-end and back-end software development",
+    "education":[
+      {
+        "school":"University of San Jose - Recoletos",
+        "degree":"Bachelor of Science in Information Technology",
+        "graduated":"March 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Micab Systems Corp.",
+        "title":"Software Engineer",
+        "years":"April 2019 - July 2020",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"90%"
+      },
+      {
+        "name":"Flutter",
+        "level":"95%"
+      },
+      {
+        "name":"Ionic",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"SailsJS",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": []
+  }
+}
